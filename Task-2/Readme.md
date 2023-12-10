@@ -1,6 +1,6 @@
 # Machine Learning INTERNSHIP (TASK 2)
 
-Project Title : CREDIT CARD FRAUDDETECTION
+Project Title : Credit Card Fraud Detection
 
 Project Description
 Build a model to detect fraudulent credit card transactions. Use adataset containing information about credit card transactions, andexperiment with algorithms like Logistic Regression, Decision Trees,or Random Forests to classify transactions as fraudulent orlegitimate.
